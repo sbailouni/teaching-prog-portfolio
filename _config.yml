@@ -1,7 +1,7 @@
 title: Sara Bailouni
 email: sbailouni@ucsd.edu
 color-scheme: auto
-description: Hi! I'm Sara, a Computer Science major with experience in how to teach programming
+description: Hi! I'm Sara, a Computer Science major with experience in how to teach computational programming!
 remote_theme: BDHU/minimalist
 plugins:
   - jekyll-sitemap
