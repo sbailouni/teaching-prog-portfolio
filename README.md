@@ -20,3 +20,6 @@ Events Program Explanation
 
 Variables Program Explanation
 <iframe src="https://drive.google.com/file/d/1RviULDzLf0YMxG7Ukpy3aAjwSsAtb4aM/preview" width="480" height="360" allow="autoplay"></iframe>
+
+Conditional Repeat Program Explanation
+<iframe src="https://drive.google.com/file/d/1Q36_bkoDOB5WCeF_qRbXBrwfp7-NWPRw/preview" width="480" height="360" allow="autoplay"></iframe>
