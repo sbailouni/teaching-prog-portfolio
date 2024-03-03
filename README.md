@@ -29,3 +29,6 @@ If-Else Program Explanation
 
 Nested If-Else Program Explanation
 <iframe src="https://drive.google.com/file/d/19WKJn60IXH-bBLJF1VN6w8Sv_L9OpIGg/preview" width="480" height="360" allow="autoplay"></iframe>
+
+Compound Conditionals Program Explanation
+<iframe src="https://drive.google.com/file/d/1ODKbJKAvfmKBbr_kzBbChv_nEdsUJDuZ/preview" width="480" height="360" allow="autoplay"></iframe>
