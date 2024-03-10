@@ -32,3 +32,6 @@ Nested If-Else Program Explanation
 
 Compound Conditionals Program Explanation
 <iframe src="https://drive.google.com/file/d/1ODKbJKAvfmKBbr_kzBbChv_nEdsUJDuZ/preview" width="480" height="360" allow="autoplay"></iframe>
+
+Abstraction Program Explanation
+<iframe src="https://drive.google.com/file/d/16mj4ayetn9VwQK1qFHtTDbbAtGpg8LYJ/preview" width="480" height="360" allow="autoplay"></iframe>
